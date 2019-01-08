@@ -35,7 +35,6 @@ i {
   display: inline-block;
   padding: 3px;
   margin-left: 3px;
-
 }
 
 .down {
@@ -43,9 +42,7 @@ i {
   -webkit-transform: rotate(45deg);
 }
 
-.cart-down {
 
-}
 
 .nav-text {
 	font-family: Targetica, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -87,11 +84,11 @@ input[type=text] {
   float: left;
   
   height: 35px;
-  width:92%;
+  width:88%;
   right:3px;
 }
 
-button {
+.navbarButton {
   float: left;
   height:40px;
   width:40px;

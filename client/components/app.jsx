@@ -17,7 +17,7 @@ class App extends React.Component {
   <div className="search-container">
     <form>
       <input type="text" placeholder="Search" name="search" />
-      <button type="submit"><i className="fa fa-search"></i></button>
+      <button class="navbarButton" type="submit"><i className="fa fa-search"></i></button>
     </form>
   </div>
 
